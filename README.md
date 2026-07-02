@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0053-maximum-subarray) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
@@ -11,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
