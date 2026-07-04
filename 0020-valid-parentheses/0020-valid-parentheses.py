@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
 
-        stack = []
+        st = []
 
         pairs = {
             ')': '(',
@@ -12,16 +12,16 @@ class Solution:
         for ch in s:
 
             if ch in "({[":
-                stack.append(ch)
+                st.append(ch)
 
             else:
-                if not stack:
+                if not st:
                     return False
 
-                if stack[-1] != pairs[ch]:
+                if st[-1] != pairs[ch]:
                     return False
 
-                stack.pop()
+                st.pop()
 
-        return len(stack) == 0
+        return len(st) == 0
         
