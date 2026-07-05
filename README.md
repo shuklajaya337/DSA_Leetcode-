@@ -24,8 +24,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
