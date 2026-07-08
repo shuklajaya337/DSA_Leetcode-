@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Queue
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
