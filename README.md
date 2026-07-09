@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Queue
@@ -80,8 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
