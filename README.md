@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1544-make-the-string-great) |
 ## Hash Table
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
