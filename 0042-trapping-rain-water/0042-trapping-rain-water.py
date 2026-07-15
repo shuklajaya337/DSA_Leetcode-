@@ -1,26 +1,31 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
-        n=len(height)
-        total_water=0
+    def trap(self, height):
+        left = 0
+        right = len(height) - 1
 
-        prefix_max=[0]*n
-        suffix_max=[0]*n
+        left_max = 0
+        right_max = 0
 
-        prefix_max[0]=height[0]
-        for i in range(1,n):
-            prefix_max[i]=max(prefix_max[i-1], height[i])
+        water = 0
 
-        suffix_max[n-1]=height[n-1]
-        for i in range(n-2,-1,-1):
-            suffix_max[i]=max(suffix_max[i+1],height[i])
+        while left <= right:
+            if height[left] <= height[right]:
 
-        for i in range(n):
-            left_max=prefix_max[i] 
-            right_max=suffix_max[i]
+                if height[left] >= left_max:
+                    left_max = height[left]
+                else:
+                    water += left_max - height[left]
 
-            if height[i]<left_max and height[i]< right_max:
-                total_water+= min(left_max,right_max)-height[i]
+                left += 1
 
-        return total_water
+            else:
 
+                if height[right] >= right_max:
+                    right_max = height[right]
+                else:
+                    water += right_max - height[right]
+
+                right -= 1
+
+        return water
         
