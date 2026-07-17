@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2104-sum-of-subarray-ranges](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [1544-make-the-string-great](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1544-make-the-string-great) |
+| [2104-sum-of-subarray-ranges](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
