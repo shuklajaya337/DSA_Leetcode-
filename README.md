@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0844-backspace-string-compare) |
