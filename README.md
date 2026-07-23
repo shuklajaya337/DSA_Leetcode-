@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [0922-sort-array-by-parity-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1046-last-stone-weight](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 ## Simulation
 |  |
 | ------- |
