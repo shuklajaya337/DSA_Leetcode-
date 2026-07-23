@@ -1,22 +1,12 @@
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        # slow=0
-        # for i in range(len(nums)):
-        #     if nums[i]!= val:
-        #         nums[slow]=nums[i]
-        #         slow+=1
+    def removeElement(self, arr: List[int], val: int) -> int:
+        i=0
+        for j in range(len(arr)):
+            if arr[j]!= val:
+                arr[i]=arr[j]
+                i+=1
 
-        # return slow 
+        return i 
 
-        slow=0
-        fast=0
-
-        while fast< len(nums):
-            if nums[fast]!= val:
-                nums[slow]=nums[fast]
-                slow+=1
-            fast+=1
-
-        return slow
 
         
