@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
@@ -178,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
