@@ -8,13 +8,14 @@ class Solution:
             if arr[j]==0:
                 zero+=1
 
-            while zero>k:
+            if  zero>k:
                 if arr[i]==0:
                     zero-=1
                 i+=1
-
-            length=j-i+1
-            ans=max(ans,length)
+            
+            if zero <=k:
+                length=j-i+1
+                ans=max(ans,length)
 
         return ans
 
