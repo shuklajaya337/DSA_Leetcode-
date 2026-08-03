@@ -13,9 +13,8 @@ class Solution:
                     zero-=1
                 i+=1
             
-            if zero <=k:
-                length=j-i+1
-                ans=max(ans,length)
+            
+            ans=max(ans,j-i+1)
 
         return ans
 
