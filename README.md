@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0922-sort-array-by-parity-ii) |
+| [1089-duplicate-zeros](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1089-duplicate-zeros) |
 ## Simulation
 |  |
 | ------- |
