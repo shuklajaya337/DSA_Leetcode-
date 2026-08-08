@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
