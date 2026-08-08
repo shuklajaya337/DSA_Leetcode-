@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1089-duplicate-zeros) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0066-plus-one) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
