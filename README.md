@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0053-maximum-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0242-valid-anagram) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
