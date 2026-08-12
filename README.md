@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
 |  |
 | ------- |
