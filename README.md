@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0066-plus-one) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
+| [2235-add-two-integers](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
