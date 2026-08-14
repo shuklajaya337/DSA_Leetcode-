@@ -1,13 +1,12 @@
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         n=len(nums)
-        running_sum=0
-        prefix_sum=[0]*n
-
-        for i in range(n):
-            running_sum+=nums[i]
-            prefix_sum[i] = running_sum
-
-        return prefix_sum
-
+        if n == 0:
+            return []
+        prefix=[0]*n
+        prefix[0]=nums[0]
         
+        for i in range(1,n):
+            prefix[i]=prefix[i-1]+nums[i]
+
+        return prefix
