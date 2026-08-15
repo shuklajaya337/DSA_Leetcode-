@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0303-range-sum-query-immutable) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0724-find-pivot-index) |
