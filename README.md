@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1089-duplicate-zeros) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shuklajaya337/DSA_Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
